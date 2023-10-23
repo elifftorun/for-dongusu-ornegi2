@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\for-dongu-ornegi2\for-dongu-ornegi2\obj\Debug\for-dongu-ornegi2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\for-dongu-ornegi2\for-dongu-ornegi2\obj\Debug\for-dongu-ornegi2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\for-dongu-ornegi2\for-dongu-ornegi2\obj\Debug\for_dongu_ornegi2.Form1.resources
+C:\Users\User\source\repos\for-dongu-ornegi2\for-dongu-ornegi2\obj\Debug\for_dongu_ornegi2.Properties.Resources.resources
+C:\Users\User\source\repos\for-dongu-ornegi2\for-dongu-ornegi2\obj\Debug\for-dongu-ornegi2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\for-dongu-ornegi2\for-dongu-ornegi2\obj\Debug\for-dongu-ornegi2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\for-dongu-ornegi2\for-dongu-ornegi2\bin\Debug\for-dongu-ornegi2.exe.config
+C:\Users\User\source\repos\for-dongu-ornegi2\for-dongu-ornegi2\bin\Debug\for-dongu-ornegi2.exe
+C:\Users\User\source\repos\for-dongu-ornegi2\for-dongu-ornegi2\bin\Debug\for-dongu-ornegi2.pdb
+C:\Users\User\source\repos\for-dongu-ornegi2\for-dongu-ornegi2\obj\Debug\for-dongu-ornegi2.exe
+C:\Users\User\source\repos\for-dongu-ornegi2\for-dongu-ornegi2\obj\Debug\for-dongu-ornegi2.pdb
